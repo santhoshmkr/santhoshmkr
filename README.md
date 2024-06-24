@@ -2,12 +2,15 @@
 
 React Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on react
-- 🤔 I’m looking for help with Placements in FAANG
-- i'm currently working on portfolio
-- 💬 Ask me about Tech
-- 📫 How to reach me :
+- 🧠 **Currently Learning:** Next.js
+- 👯 **Looking to Collaborate On:** React projects
+- 🌐 **Portfolio:** [react-portfolio-nine-silk.vercel.app](https://react-portfolio-nine-silk.vercel.app/)
+- 🤔 **Seeking Help With:** Placements in FAANG companies
+- 🚀 **Current Project:** Working on an e-commerce website
+- 💬 **Ask Me About:** Tech
+
+## Contact Me
+- 📫 **How to reach me:**
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhosh-k-826178270/)
 - 😄 Pronouns: Techie
 
